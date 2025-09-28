@@ -1,0 +1,10 @@
+playwright
+transformers>=4.30.0
+torch
+accelerate
+requests
+uvicorn
+fastapi
+python-dotenv
+jsonschema
+huggingface_hub

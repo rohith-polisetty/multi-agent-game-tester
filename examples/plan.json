@@ -1,0 +1,422 @@
+[
+  {
+    "id": "t001",
+    "title": "Auto-generated case 1",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "1"
+      }
+    ]
+  },
+  {
+    "id": "t002",
+    "title": "Auto-generated case 2",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "2"
+      }
+    ]
+  },
+  {
+    "id": "t003",
+    "title": "Auto-generated case 3",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "3"
+      }
+    ]
+  },
+  {
+    "id": "t004",
+    "title": "Auto-generated case 4",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "4"
+      }
+    ]
+  },
+  {
+    "id": "t005",
+    "title": "Auto-generated case 5",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "5"
+      }
+    ]
+  },
+  {
+    "id": "t006",
+    "title": "Auto-generated case 6",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "6"
+      }
+    ]
+  },
+  {
+    "id": "t007",
+    "title": "Auto-generated case 7",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "7"
+      }
+    ]
+  },
+  {
+    "id": "t008",
+    "title": "Auto-generated case 8",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "8"
+      }
+    ]
+  },
+  {
+    "id": "t009",
+    "title": "Auto-generated case 9",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "9"
+      }
+    ]
+  },
+  {
+    "id": "t010",
+    "title": "Auto-generated case 10",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "10"
+      }
+    ]
+  },
+  {
+    "id": "t011",
+    "title": "Auto-generated case 11",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "11"
+      }
+    ]
+  },
+  {
+    "id": "t012",
+    "title": "Auto-generated case 12",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "12"
+      }
+    ]
+  },
+  {
+    "id": "t013",
+    "title": "Auto-generated case 13",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "13"
+      }
+    ]
+  },
+  {
+    "id": "t014",
+    "title": "Auto-generated case 14",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "14"
+      }
+    ]
+  },
+  {
+    "id": "t015",
+    "title": "Auto-generated case 15",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "15"
+      }
+    ]
+  },
+  {
+    "id": "t016",
+    "title": "Auto-generated case 16",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "16"
+      }
+    ]
+  },
+  {
+    "id": "t017",
+    "title": "Auto-generated case 17",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "17"
+      }
+    ]
+  },
+  {
+    "id": "t018",
+    "title": "Auto-generated case 18",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "18"
+      }
+    ]
+  },
+  {
+    "id": "t019",
+    "title": "Auto-generated case 19",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "19"
+      }
+    ]
+  },
+  {
+    "id": "t020",
+    "title": "Auto-generated case 20",
+    "description": "Deterministic fallback test with language selection",
+    "priority": "low",
+    "tags": [
+      "fallback",
+      "language"
+    ],
+    "steps": [
+      {
+        "action": "navigate",
+        "selector": "https://play.ezygamers.com/"
+      },
+      {
+        "action": "assert_contains",
+        "selector": "body",
+        "value": "20"
+      }
+    ]
+  }
+]
