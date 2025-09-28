@@ -24,11 +24,11 @@ This repository is a minimal, runnable end-to-end POC that:
    ```
 4. Generate plan (planner uses hf_api by default here)
    ```powershell
-   python planner.py --url "https://play.ezygamers.com/" --out examples/plan.json --num 20 --backend hf_api
+   python planner.py --url "https://play.ezygamers.com/" --out examples/plan.json --num 20 --backend transformers
    ```
 5. Run end-to-end orchestrator (rank -> execute -> analyze -> report)
    ```powershell
-   python orchestrator.py --plan examples/plan.json --out runs/run_001
+   python orchestrator.py --plan examples/plan.json --out runs/run_001 --topk 10 --workers 3
    ```
 6. Open report: `runs/run_001/report.json` and artifacts in `runs/run_001/artifacts/...`
 
